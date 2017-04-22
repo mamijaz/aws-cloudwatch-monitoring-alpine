@@ -1,6 +1,6 @@
-# aws-cloudwatch-monitoring-alpine
+# AWS Cloudwatch Monitoring Using Alpine Image
 
-Used to moniter the disk space and memory of an aws instance in a dockerized environment in every 5 Min.
+The sollution is used to moniter the disk space and memory of an aws instance in a dockerized environment in every 5 Min.
 
 Simply add you aws IAM keys(AWSAccessKeyId and AWSSecretKey) in the "aws-scripts-mon/awscreds.conf" file.
 
